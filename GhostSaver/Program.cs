@@ -85,7 +85,6 @@ namespace GhostSaver
         {
             const string timestampFormat = "yyyyMMddhhmm";
             
-
             while (!cancellationToken.IsCancellationRequested)
             {
                 try
